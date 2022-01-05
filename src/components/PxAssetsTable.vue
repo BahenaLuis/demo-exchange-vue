@@ -6,7 +6,7 @@
         <th>
           <span>Ranking</span>
         </th>
-        <th>Nombre</th>
+        <th>Name</th>
         <th>Precio</th>
         <th>Cap. de Mercado</th>
         <th>Variación 24hs</th>
